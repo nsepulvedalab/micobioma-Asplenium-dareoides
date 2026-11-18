@@ -1,0 +1,19 @@
+panel,categoria,lecturas,pct
+Cobertura,Lecturas totales (sin quimeras),538025,100.0
+Cobertura,Asignadas a algún taxón (UNITE),289000,53.7
+Cobertura,Anotadas con FungalTraits,217138,40.4
+A. Modo trófico,Saprótrofo,128783,59.31
+A. Modo trófico,Patótrofo,84665,38.99
+A. Modo trófico,Simbiótrofo,3690,1.7
+B. Capacidad endofítica,Endófito foliar,123096,56.69
+B. Capacidad endofítica,Sin dato,89915,41.41
+B. Capacidad endofítica,Asociado a raíz,3083,1.42
+B. Capacidad endofítica,Sin capacidad endofítica,519,0.24
+B. Capacidad endofítica,Endófito septado oscuro,287,0.13
+B. Capacidad endofítica,Endófito de raíz,238,0.11
+C. Estilo de vida primario,Saprótrofo de hojarasca,126852,58.42
+C. Estilo de vida primario,Patógeno de plantas,65578,30.2
+C. Estilo de vida primario,Parásito de líquenes,17154,7.9
+C. Estilo de vida primario,Endófito foliar,3482,1.6
+C. Estilo de vida primario,Micoparásito,1333,0.61
+C. Estilo de vida primario,"Otros (cada uno < 0,5 %)",2739,1.26

@@ -1,0 +1,7 @@
+"pair","n_ASVs","reads","pct_lecturas"
+"sample_ADTN1 + sample_ADTN3",37,231540,43
+"sample_ADTN2 + sample_ADTN4",36,223745,41.6
+"sample_ADTN1 + sample_ADTN2",2,391,0.1
+"sample_ADTN3 + sample_ADTN4",2,236,0
+"sample_ADTN2 + sample_ADTN3",1,103,0
+"sample_ADTN1 + sample_ADTN4",1,34,0
